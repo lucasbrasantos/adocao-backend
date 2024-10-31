@@ -4,8 +4,9 @@
 
 <img align="right" width=120 src="https://media.tenor.com/_l_5p1vtSE0AAAAM/chiens-funnyanimals.gif">
 
-<p> <b>Adocão</b> é um backend para gerenciar o cadastro de animais disponíveis para adoção.  A ideia é centralizar informações</p>
-<p>básicas sobre os animais, como nome, espécie, raça e sexo, para auxiliar em processos de adoção. </p>
+<span> <b>Adocão</b> é um backend para gerenciar o cadastro de animais disponíveis para adoção.  A ideia é centralizar informações </span>
+<br>
+<span> básicas sobre os animais, como nome, espécie, raça e sexo, para auxiliar em processos de adoção. </span>
 
 <br><br>
 
