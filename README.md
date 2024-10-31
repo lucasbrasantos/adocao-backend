@@ -1,16 +1,20 @@
 
 # Adocão 🐾
 
-**Adocão** é um backend para gerenciar o cadastro de animais disponíveis para adoção. A ideia é centralizar informações básicas sobre os animais, como nome, espécie, raça e sexo, para auxiliar em processos de adoção.
 
----
+<img align="right" width=120 src="https://media.tenor.com/_l_5p1vtSE0AAAAM/chiens-funnyanimals.gif">
+
+<p> <b>Adocão</b> é um backend para gerenciar o cadastro de animais disponíveis para adoção.  A ideia é centralizar informações</p>
+<p>básicas sobre os animais, como nome, espécie, raça e sexo, para auxiliar em processos de adoção. </p>
+
+<br><br>
 
 ## Funcionalidades ✨
 
 - **Cadastro de Animais**: Registra novos animais no sistema.
 - **Consulta de Animais**: Exibe a lista completa de animais cadastrados.
 
----
+
 
 ## Tecnologias Utilizadas 🛠️
 
@@ -21,7 +25,7 @@
 - **Bean Validation**: Para validação de dados.
 - **PostgreSQL Driver**: Conexão com banco de dados PostgreSQL.
 
----
+
 
 ## Estrutura de Dados 📋
 
@@ -33,7 +37,7 @@ Cada animal possui os seguintes atributos:
 - **Raça**: Raça do animal
 - **Sexo**: Sexo do animal
 
----
+
 
 ## Endpoints 🌐
 
@@ -42,7 +46,7 @@ Cada animal possui os seguintes atributos:
 | GET    | `/animals`  | Retorna a lista de todos os animais    |
 | POST   | `/animals`  | Cadastra um novo animal                |
 
----
+
 
 ## Exemplo de Requisição 🐶
 
